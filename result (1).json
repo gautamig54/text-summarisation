@@ -1,0 +1,1109 @@
+{
+   "@bleu": "11.102962787568602",
+   "@rouge_1": "0.34342962592962584",
+   "@rouge_2": "0.1475901875901876",
+   "@rouge_L": "0.32690437340437334",
+   "@rouge_be": "0.09622222222222224",
+   "example": [
+      {
+         "article": "five-time world champion michelle kwan withdrew from the # us figure skating championships on wednesday , but will petition us skating officials for the chance to compete at the # turin olympics #",
+         "reference": "injury leaves kwan 's olympic hopes in limbo",
+         "summary": "world figure skating cycling results",
+         "eval": {
+            "BLEU": {
+               "@score": "0.1658165975077607"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "us business leaders lashed out wednesday at legislation that would penalize companies for employing illegal immigrants #",
+         "reference": "us business attacks tough immigration law",
+         "summary": "us business leaders lash out at illegal immigrants",
+         "eval": {
+            "BLEU": {
+               "@score": "1.8575057999133595"
+            },
+            "ROUGE_1": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "general motors corp# said wednesday its us sales fell # percent in december and four percent in # with the biggest losses coming from passenger car sales #",
+         "reference": "gm december sales fall # percent",
+         "summary": "gm sales down # percent in june",
+         "eval": {
+            "BLEU": {
+               "@score": "2.6269098944241582"
+            },
+            "ROUGE_1": {
+               "@score": "0.6666666666666665"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.6666666666666665"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "several thousand people gathered on wednesday evening on the main square in zagreb for a public draw and an open air party to celebrate the croatian capital 's second chance to host the women 's slalom world cup #",
+         "reference": "thousands of croatians celebrate before world cup slalom",
+         "summary": "croatia 's world cup super-g results",
+         "eval": {
+            "BLEU": {
+               "@score": "1.9562170797817717"
+            },
+            "ROUGE_1": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_2": {
+               "@score": "0.22222222222222224"
+            },
+            "ROUGE_l": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "us first lady laura bush and us secretary of state condoleezza rice will represent the united states later this month at the inauguration of liberia 's president-elect ellen johnson sirleaf , the white house said wednesday #",
+         "reference": "laura bush <unk> rice to attend sirleaf 's inauguration in liberia",
+         "summary": "us lead the new lady rice secretary",
+         "eval": {
+            "BLEU": {
+               "@score": "0.2492744492679049"
+            },
+            "ROUGE_1": {
+               "@score": "0.16666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.16666666666666666"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "jack abramoff , a former lobbyist at the center of a mushrooming political scandal in washington , on wednesday pleaded guilty in a us court in miami to defrauding lenders in a florida gambling boat deal #",
+         "reference": "top republican lobbyist pleads guilty to florida fraud",
+         "summary": "former pepsico security chief pleads guilty in florida",
+         "eval": {
+            "BLEU": {
+               "@score": "2.0556680845025985"
+            },
+            "ROUGE_1": {
+               "@score": "0.4615384615384615"
+            },
+            "ROUGE_2": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_l": {
+               "@score": "0.4615384615384615"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "somalia 's feuding president and parliament speaker have agreed a compromise in a bitter row over the appropriate seat for their fledgling transitional government , a yemeni official said wednesday #",
+         "reference": "somalia rivals in compromise on seat of government",
+         "summary": "somali president parliament speaker agrees compromise over government",
+         "eval": {
+            "BLEU": {
+               "@score": "0.5873949094699213"
+            },
+            "ROUGE_1": {
+               "@score": "0.3333333333333333"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.3333333333333333"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "a #-hour strike by airport workers in portugal planned for friday over job security issues could lead to flight cancellations , union and airport officials said #",
+         "reference": "portuguese airport workers strike could ground flights on friday",
+         "summary": "workers strike disrupts in portugal",
+         "eval": {
+            "BLEU": {
+               "@score": "1.614457444314308"
+            },
+            "ROUGE_1": {
+               "@score": "0.36363636363636365"
+            },
+            "ROUGE_2": {
+               "@score": "0.2222222222222222"
+            },
+            "ROUGE_l": {
+               "@score": "0.36363636363636365"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "jose mourinho renewed his partnership with portuguese international maniche on wednesday when he completed the loan signing of the #-year-old midfielder from dynamo moscow #",
+         "reference": "maniche renews partnership with mourinho",
+         "summary": "ambitious maniche deals blow",
+         "eval": {
+            "BLEU": {
+               "@score": "1.1126884221146585"
+            },
+            "ROUGE_1": {
+               "@score": "0.25"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.25"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "hollywood is planning a new sequel to adventure flick `` ocean 's eleven , '' with star george clooney set to reprise his role as a charismatic thief in `` ocean 's thirteen , '' the entertainment press said wednesday #",
+         "reference": "hollywood shores up support for ocean 's thirteen",
+         "summary": "ocean director eyes 's jacket for cyprus",
+         "eval": {
+            "BLEU": {
+               "@score": "0.6701444470965752"
+            },
+            "ROUGE_1": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "canada advised its nationals wednesday to avoid non-essential travel to nepal , following the resumption of a maoist rebel insurgency in the himalayan kingdom #",
+         "reference": "canada recommends avoiding travel to nepal",
+         "summary": "canada urges citizens to avoid nepal travel",
+         "eval": {
+            "BLEU": {
+               "@score": "0.8307018474412793"
+            },
+            "ROUGE_1": {
+               "@score": "0.5454545454545454"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_be": {
+               "@score": "0.4"
+            }
+         }
+      },
+      {
+         "article": "us auto sales will likely be weaker in # , a senior executive at ford motor company said wednesday #",
+         "reference": "ford executive sees weaker us auto sales in #",
+         "summary": "auto sales weaker in #",
+         "eval": {
+            "BLEU": {
+               "@score": "2.414176971688928"
+            },
+            "ROUGE_1": {
+               "@score": "0.6666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0.28571428571428575"
+            },
+            "ROUGE_l": {
+               "@score": "0.4444444444444444"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the united states on wednesday welcomed beijing 's early release of a chinese journalist jailed for exposing top-level graft but said it remain concerned over the lack of freedom in the world 's most populous nation #",
+         "reference": "us welcomes chinese journalist 's release highlights freedom concerns",
+         "summary": "us welcomes early chinese journalist 's release",
+         "eval": {
+            "BLEU": {
+               "@score": "36.74145494215666"
+            },
+            "ROUGE_1": {
+               "@score": "0.6666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0.4"
+            },
+            "ROUGE_l": {
+               "@score": "0.6666666666666666"
+            },
+            "ROUGE_be": {
+               "@score": "0.4444444444444445"
+            }
+         }
+      },
+      {
+         "article": "two bank workers on wednesday admitted stealing almost #,# pounds -lrb- #,# euros -rrb- from the accounts of three former manchester city footballers #",
+         "reference": "two bankers admit theft from city players",
+         "summary": "two banks were stealing almost # , euros",
+         "eval": {
+            "BLEU": {
+               "@score": "0.4939382737115371"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "israeli prime minister ariel sharon was admitted to hospital early for a planned heart procedure after feeling unwell wednesday evening , his office said #",
+         "reference": "unwell sharon admitted to hospital early",
+         "summary": "tired sharon admitted to hospital",
+         "eval": {
+            "BLEU": {
+               "@score": "54.75182535069452"
+            },
+            "ROUGE_1": {
+               "@score": "0.6666666666666665"
+            },
+            "ROUGE_2": {
+               "@score": "0.5714285714285715"
+            },
+            "ROUGE_l": {
+               "@score": "0.6666666666666665"
+            },
+            "ROUGE_be": {
+               "@score": "0.5"
+            }
+         }
+      },
+      {
+         "article": "sales of hybrid <unk> vehicles in the united states should more than triple over the next seven years , a leading research firm said wednesday #",
+         "reference": "us hybrid vehicle sales expect to more than triple in seven years",
+         "summary": "sales of hybrid accidents in us should say",
+         "eval": {
+            "BLEU": {
+               "@score": "0.423682412589593"
+            },
+            "ROUGE_1": {
+               "@score": "0.4444444444444444"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.2222222222222222"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the los angeles dodgers acquired south korean right-hander jae seo from the new york mets on wednesday in a four-player swap #",
+         "reference": "korea 's seo headed to dodgers from mets",
+         "summary": "dodgers dangles south korea 's < unk > each",
+         "eval": {
+            "BLEU": {
+               "@score": "1.7747405280050266"
+            },
+            "ROUGE_1": {
+               "@score": "0.4000000000000001"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "teenage hollywood starlet lindsay lohan , who was rushed to hospital this week after suffering an asthma attack , has admitted fighting a fierce battle with the eating disorder bulimia #",
+         "reference": "hollywood starlet lindsay lohan admits bulimia battle",
+         "summary": "inspector < unk > michael bulimia",
+         "eval": {
+            "BLEU": {
+               "@score": "0.6145284040409448"
+            },
+            "ROUGE_1": {
+               "@score": "0.18181818181818182"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.18181818181818182"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the white house vigorously rejected wednesday suggestions that us soldiers in iraq do not hesitate to fire on civilians , after a bombing killed eight iraqi non-combatants , including two children #",
+         "reference": "us insists soldiers act with restraint to protect civilians",
+         "summary": "white house warns us not threaten kill civilian women",
+         "eval": {
+            "BLEU": {
+               "@score": "0.42643667978180183"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the us special envoy to multilateral talks aimed at ending north korea 's nuclear weapons drive has quit , the state department said wednesday amid reported divisions within the administration over the nuclear issue #",
+         "reference": "us special envoy to korean nuclear talks quits",
+         "summary": "us government to quit n # korea nuclear talks",
+         "eval": {
+            "BLEU": {
+               "@score": "1.9070828081828382"
+            },
+            "ROUGE_1": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_2": {
+               "@score": "0.22222222222222224"
+            },
+            "ROUGE_l": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "at least two people have tested positive for the bird flu virus in eastern turkey , health minister recep akdag told a news conference wednesday #",
+         "reference": "two test positive for bird flu virus in turkey",
+         "summary": "suspected sars aids virus in eastern turkey",
+         "eval": {
+            "BLEU": {
+               "@score": "1.837072747107833"
+            },
+            "ROUGE_1": {
+               "@score": "0.3333333333333333"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.3333333333333333"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "britain 's un envoy on wednesday urged stronger international support , including greater eu funding , for the african union -lrb- au -rrb- peacekeeping mission in sudan 's troubled darfur region to improve security on the ground #",
+         "reference": "britain urges stronger international support for au in darfur",
+         "summary": "britain urges increased support for africa peace mission",
+         "eval": {
+            "BLEU": {
+               "@score": "2.318239845198146"
+            },
+            "ROUGE_1": {
+               "@score": "0.42857142857142855"
+            },
+            "ROUGE_2": {
+               "@score": "0.16666666666666666"
+            },
+            "ROUGE_l": {
+               "@score": "0.42857142857142855"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "australian foreign minister alexander downer called wednesday for the reform of the un security council and expressed support for brazil , india , japan and an african country to join the council #",
+         "reference": "australia backs brazil others for un security council",
+         "summary": "australian fm calls for reform of countries",
+         "eval": {
+            "BLEU": {
+               "@score": "0.5091996654452335"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "two egyptian border guards were killed wednesday in clashes with palestinian militants near the rafah crossing on the border with gaza , a medical source said #",
+         "reference": "two egyptian guards killed on border with gaza",
+         "summary": "two egyptian guards killed when palestinian militants near rafah",
+         "eval": {
+            "BLEU": {
+               "@score": "29.84745896009822"
+            },
+            "ROUGE_1": {
+               "@score": "0.5454545454545454"
+            },
+            "ROUGE_2": {
+               "@score": "0.4444444444444445"
+            },
+            "ROUGE_l": {
+               "@score": "0.5454545454545454"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "stephen harper and his conservative party pulled ahead of prime minister paul martin 's liberals wednesday , weeks before canada 's federal election on january # , according to the latest poll #",
+         "reference": "conservatives gain momentum ahead of ruling liberals",
+         "summary": "canada 's liberal party pulls out right to oust",
+         "eval": {
+            "BLEU": {
+               "@score": "0.13485111859503685"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "dutch bank abn amro was hit wednesday with its second us fine in two months after settling a government probe into its mortgage lending in the industrial state of michigan #",
+         "reference": "abn amro hit with second us fine",
+         "summary": "dutch abn amro posts two months fine in crash probe",
+         "eval": {
+            "BLEU": {
+               "@score": "1.561969968460128"
+            },
+            "ROUGE_1": {
+               "@score": "0.5"
+            },
+            "ROUGE_2": {
+               "@score": "0.2"
+            },
+            "ROUGE_l": {
+               "@score": "0.5"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the buffalo bills sacked tom donahoe as president and general manager on wednesday , fulfilling expectations of a shake-up after another failure to make the national football league playoffs #",
+         "reference": "nfl 's bills shake up front office",
+         "summary": "< unk > bills blow up",
+         "eval": {
+            "BLEU": {
+               "@score": "0.7308015504567585"
+            },
+            "ROUGE_1": {
+               "@score": "0.25"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.25"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "tottenham sealed a miserable festive period for a toothless manchester city here wednesday with a #-# win thanks to goals from their confident striking duo of ahmed mido and robbie keane #",
+         "reference": "spurs compound manchester city woes",
+         "summary": "spurs swoop for al mido",
+         "eval": {
+            "BLEU": {
+               "@score": "0.9554427922043668"
+            },
+            "ROUGE_1": {
+               "@score": "0.22222222222222224"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.22222222222222224"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the dollar fell to a two-month low against the euro wednesday on expectations that us interest rates will soon stop going up , depriving the greenback of its biggest investment appeal #",
+         "reference": "us rate outlook sends dollar to two-month low against euro",
+         "summary": "dollar drops to two-month low against euro",
+         "eval": {
+            "BLEU": {
+               "@score": "41.91742490576712"
+            },
+            "ROUGE_1": {
+               "@score": "0.6666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0.4"
+            },
+            "ROUGE_l": {
+               "@score": "0.6666666666666666"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "two top us movie groups picked their # awards nominees wednesday , with gay drama `` brokeback mountain , '' george clooney 's `` good night and good '' luck and `` crash '' taking early leads in the oscars race #",
+         "reference": "top us movie groups pick awards nominees as oscars loom",
+         "summary": "oscars race emerges from the",
+         "eval": {
+            "BLEU": {
+               "@score": "0.35148776046742497"
+            },
+            "ROUGE_1": {
+               "@score": "0.18181818181818182"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.18181818181818182"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "right fielder jeromy burnitz inked a one-year , # million-dollar contract with the pittsburgh pirates on wednesday , a week after he was reported as close to a deal with baltimore #",
+         "reference": "pirates ink outfielder burnitz to one-year deal",
+         "summary": "< unk > returns to striking pirates",
+         "eval": {
+            "BLEU": {
+               "@score": "0.6985342056580097"
+            },
+            "ROUGE_1": {
+               "@score": "0.2"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.2"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "us president george w# bush said late wednesday that he and the first lady shared `` the concerns of the israeli people about prime minister ariel sharon 's health '' and were praying for his recovery #",
+         "reference": "bush says he shares israelis concern over sharon",
+         "summary": "bush share first lady deng",
+         "eval": {
+            "BLEU": {
+               "@score": "0.5243581219839234"
+            },
+            "ROUGE_1": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the prime minister of burkina faso , <unk> ernest yonli , has handed in his resignation to president blaise compaore , the president 's office announced wednesday #",
+         "reference": "burkina faso 's prime minister resigns",
+         "summary": "burkina faso 's prime minister caned for president",
+         "eval": {
+            "BLEU": {
+               "@score": "51.697315395717055"
+            },
+            "ROUGE_1": {
+               "@score": "0.7272727272727272"
+            },
+            "ROUGE_2": {
+               "@score": "0.6666666666666665"
+            },
+            "ROUGE_l": {
+               "@score": "0.7272727272727272"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "a top hollywood event promoter is seeking a court order to stop socialite and hotel heiress paris hilton from allegedly harassing him and threatening his life , court documents showed wednesday #",
+         "reference": "man seeks stay-away order against paris hilton",
+         "summary": "hollywood heiress seeks legal action over alleged disclosures",
+         "eval": {
+            "BLEU": {
+               "@score": "0.4939382737115371"
+            },
+            "ROUGE_1": {
+               "@score": "0.15384615384615383"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.15384615384615383"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the un security council will hold a ministerial session on the situation in africa 's great lakes region late this month , <unk> 's un envoy augustine <unk> said wednesday #",
+         "reference": "security council to hold ministerial session on africa 's great lakes",
+         "summary": "un security council to hold ministerial session on great lakes conflict",
+         "eval": {
+            "BLEU": {
+               "@score": "63.15552371794039"
+            },
+            "ROUGE_1": {
+               "@score": "0.875"
+            },
+            "ROUGE_2": {
+               "@score": "0.7142857142857143"
+            },
+            "ROUGE_l": {
+               "@score": "0.875"
+            },
+            "ROUGE_be": {
+               "@score": "0.8"
+            }
+         }
+      },
+      {
+         "article": "political leaders in israel united in prayers for ariel sharon on thursday as the prime minister underwent emergency surgery after suffering a massive stroke #",
+         "reference": "israeli leaders unite in prayer for ailing sharon",
+         "summary": "israeli political leaders after new pm surgery",
+         "eval": {
+            "BLEU": {
+               "@score": "0.605543865104477"
+            },
+            "ROUGE_1": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "israeli prime minister ariel sharon was undergoing an emergency operation thursday after suffering a massive stroke #",
+         "reference": "timeline of sharon era",
+         "summary": "israeli pm sharon undergoes emergency operation",
+         "eval": {
+            "BLEU": {
+               "@score": "0.7259795291154771"
+            },
+            "ROUGE_1": {
+               "@score": "0.2222222222222222"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.2222222222222222"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "human trafficking victims could be spared deportation from britain and get automatic permission to stay under government proposals revealed thursday #",
+         "reference": "human trafficking victims could get right to remain in britain",
+         "summary": "britain to deportation from",
+         "eval": {
+            "BLEU": {
+               "@score": "0.3791080144520065"
+            },
+            "ROUGE_1": {
+               "@score": "0.28571428571428575"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.28571428571428575"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "world number two rafael nadal is in doubt for this month 's australian open after withdrawing on thursday from next week 's lead-up sydney international tournament #",
+         "reference": "nadal pulls out of sydney international",
+         "summary": "afp world news summary",
+         "eval": {
+            "BLEU": {
+               "@score": "0.2740311596835683"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "four-time all-star alexander mogilny was waived by new jersey on wednesday , one day after the devils welcomed back czech forward patrik elias #",
+         "reference": "mogilny odd man out as devils welcome back elias",
+         "summary": "< unk > gets new jersey",
+         "eval": {
+            "BLEU": {
+               "@score": "0.1392442062500076"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "finance minister ehud olmert will chair an emergency meeting of the israeli cabinet on thursday after prime minister ariel sharon suffered a massive stroke , public television reported #",
+         "reference": "olmert to chair emergency israel cabinet meet",
+         "summary": "israeli finance minister to chair cabinet",
+         "eval": {
+            "BLEU": {
+               "@score": "2.5575390578966206"
+            },
+            "ROUGE_1": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.3636363636363636"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "hollywood actor nick nolte has successfully completed three years of probation imposed for driving under the influence of drugs , a judge ruled on wednesday #",
+         "reference": "us actor nick nolte ends <unk>",
+         "summary": "us judge < unk > 's only probation for drunken drugs",
+         "eval": {
+            "BLEU": {
+               "@score": "5.637560315259288"
+            },
+            "ROUGE_1": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.20000000000000004"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "south korea 's consumer confidence topped the benchmark #-point level for the first time in eight months in december , reflecting the country 's solid economic recovery , official data showed thursday #",
+         "reference": "skorea 's consumer confidence tops benchmark #",
+         "summary": "south korea confidence strengthen # pct in eight months",
+         "eval": {
+            "BLEU": {
+               "@score": "0.5071215336946557"
+            },
+            "ROUGE_1": {
+               "@score": "0.1818181818181818"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.1818181818181818"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "hollywood star charlie sheen and actress denise richards have scrapped efforts to reconcile their differences and have decided to push ahead with a divorce , court documents showed wednesday #",
+         "reference": "denise richards charlie sheen push ahead with divorce",
+         "summary": "divorced richards thwart rome patch",
+         "eval": {
+            "BLEU": {
+               "@score": "0.5243581219839234"
+            },
+            "ROUGE_1": {
+               "@score": "0.16666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.16666666666666666"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "hong kong gold prices opened higher thursday at #-# # us dollars an ounce , compared to wednesday 's close of #-# # dollars an ounce #",
+         "reference": "hong kong gold opens higher",
+         "summary": "hong kong gold opens higher",
+         "eval": {
+            "BLEU": {
+               "@score": "100.00000000000004"
+            },
+            "ROUGE_1": {
+               "@score": "1.0"
+            },
+            "ROUGE_2": {
+               "@score": "1.0"
+            },
+            "ROUGE_l": {
+               "@score": "1.0"
+            },
+            "ROUGE_be": {
+               "@score": "1.0"
+            }
+         }
+      },
+      {
+         "article": "japanese share prices rose # percent in morning trade thursday to hit the highest level in more than five years as fresh gains on wall street fanned upbeat investor sentiment here , dealers said #",
+         "reference": "tokyo shares rise # percent in morning trade",
+         "summary": "tokyo shares rise # percent in morning trade",
+         "eval": {
+            "BLEU": {
+               "@score": "100.00000000000004"
+            },
+            "ROUGE_1": {
+               "@score": "1.0"
+            },
+            "ROUGE_2": {
+               "@score": "1.0"
+            },
+            "ROUGE_l": {
+               "@score": "1.0"
+            },
+            "ROUGE_be": {
+               "@score": "1.0"
+            }
+         }
+      },
+      {
+         "article": "a top police officer appealed thursday to supermodel kate moss to return to britain and face arrest amid allegations of <unk> #",
+         "reference": "british police seek to arrest moss amid cocaine inquiry",
+         "summary": "top cop sought for british supermodel kate moss to britain",
+         "eval": {
+            "BLEU": {
+               "@score": "0.49393827371153703"
+            },
+            "ROUGE_1": {
+               "@score": "0.26666666666666666"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.26666666666666666"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "the cerebral hemorrhage suffered by israeli prime minister ariel sharon occurs when a defective artery in the brain bursts : it is among the deadliest of the major types of stroke #",
+         "reference": "key facts about hemorrhagic stroke",
+         "summary": "< unk > dies of coalition showing",
+         "eval": {
+            "BLEU": {
+               "@score": "0.18575057999133598"
+            },
+            "ROUGE_1": {
+               "@score": "0"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      },
+      {
+         "article": "hong kong share prices opened # percent higher thursday on follow-through interest in properties after wednesday 's sharp gains on abating interest rate worries , dealers said #",
+         "reference": "hong kong shares open higher as rate worries ease",
+         "summary": "hong kong shares open # percent higher",
+         "eval": {
+            "BLEU": {
+               "@score": "32.66828640925501"
+            },
+            "ROUGE_1": {
+               "@score": "0.7142857142857143"
+            },
+            "ROUGE_2": {
+               "@score": "0.5"
+            },
+            "ROUGE_l": {
+               "@score": "0.7142857142857143"
+            },
+            "ROUGE_be": {
+               "@score": "0.6666666666666666"
+            }
+         }
+      },
+      {
+         "article": "trade between south korea and its communist neighbor north korea doubled last year , totalling more than one billion dollars for the first time , official data showed #",
+         "reference": "inter-korean trade doubles to one billion dollars in #",
+         "summary": "south korea 's trade grows over north",
+         "eval": {
+            "BLEU": {
+               "@score": "0.4414139365346591"
+            },
+            "ROUGE_1": {
+               "@score": "0.1818181818181818"
+            },
+            "ROUGE_2": {
+               "@score": "0"
+            },
+            "ROUGE_l": {
+               "@score": "0.1818181818181818"
+            },
+            "ROUGE_be": {
+               "@score": "0"
+            }
+         }
+      }
+   ]
+}
